@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Bitcoin_and_Altcoin_Wallets:_Bitcore_RPC_Adapter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitcoin_and_Altcoin_Wallets:_Bitcore_RPC_Adapter 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-30 15:55+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/ds-update.php:116
+msgid "Activate updates to the dashed-slug.net plugins"
+msgstr ""
+
+#: src/ds-update.php:127
+msgid ""
+"Enter here your dashed-slug.net activation code, exactly as you received it "
+"in your e-mail."
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:18
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:21
+msgid "You can set two types of fees:"
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:24
+msgid "Transaction fees"
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:25
+msgid "These are the fees a user pays when they send funds to other users."
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:27
+msgid "Withdrawal fees"
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:28
+msgid ""
+"This the amount that is subtracted from a user's account in addition to the "
+"amount that they send to another address on the blockchain."
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:29
+msgid ""
+"Fees are calculated as: <i>total_fees = fixed_fees + amount * "
+"proportional_fees</i>."
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:30
+msgid ""
+"This withdrawal fee is NOT the network fee, and you are advised to set the "
+"withdrawal fee to an amount that will cover the network fee of a typical "
+"transaction, possibly with some slack that will generate profit. To control "
+"network fees use the paytxfee setting in bitcore.conf"
+msgstr ""
+
+#: src/includes/wallets-bitcore-adapter.php:31
+msgid "Refer to the documentation for details."
+msgstr ""
+
+#: src/wallets-bitcore.php:67
+msgid ""
+"You cannot activate this plugin extension on a single blog because the base "
+"plugin is network-activated."
+msgstr ""
+
+#: src/wallets-bitcore.php:68 src/wallets-bitcore.php:74
+msgid "Cannot activate plugin"
+msgstr ""
+
+#: src/wallets-bitcore.php:73
+msgid ""
+"You cannot network-activate this plugin extension because the base plugin is "
+"not network-activated."
+msgstr ""
+
+#: src/wallets-bitcore.php:97 src/wallets-bitcore.php:107
+msgid "Settings"
+msgstr ""
+
+#: src/wallets-bitcore.php:98 src/wallets-bitcore.php:108
+msgid "Support"
+msgstr ""
