@@ -46,7 +46,7 @@ if ( class_exists( 'Dashed_Slug_Wallets_Coin_Adapter_RPC' ) && ! class_exists( '
 		}
 
 		public function get_sprintf() {
-			return 'BTX' . '%01.8f';
+			return 'BTX ' . '%01.8f';
 		}
 
 		public function get_symbol() {
