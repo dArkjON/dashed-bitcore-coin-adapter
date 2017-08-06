@@ -1,4 +1,4 @@
-# dashed-bitcore-coin-adater
+# dashed-bitcore-coin-adapter
 Allows your Wordpress Wallets plugin to interface with the BitCore (BTX) daemon (bitcored).
 
 https://www.bitcore.cc
@@ -8,7 +8,7 @@ https://www.bitcore.cc
 
 - [Wordpress](https://wordpress.org/)
 - [Wordpress AddOn dashed slug](https://www.dashed-slug.net/bitcoin-altcoin-wallets-wordpress-plugin/)
-- [Wordpress AddOn BitCore](https://github.com/dArkjON/dashed-bitcore-coin-adater)
+- [Wordpress AddOn BitCore](https://github.com/dArkjON/dashed-bitcore-coin-adapter)
 - [BitCore RPC Server](https://github.com/LIMXTEC/BitCore)
 
 ### Install
