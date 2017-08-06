@@ -38,7 +38,7 @@ if ( class_exists( 'Dashed_Slug_Wallets_Coin_Adapter_RPC' ) && ! class_exists( '
 		// API
 
 		public function get_adapter_name() {
-			return 'Bitcore Node';
+			return 'Bitcore core node';
 		}
 
 		public function get_name() {
