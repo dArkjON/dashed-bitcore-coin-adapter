@@ -29,7 +29,7 @@ Activate the BitCore Pluging in your Wordpress Setting. Now configure your RPC S
 
 
 
-> Author : dArkjON 
+
 
 > Donation BitSend : iEc9Ayxt37BjLU5orZwvDTc8cvuZTr4EQs
 
